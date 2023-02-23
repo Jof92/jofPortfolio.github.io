@@ -1,0 +1,113 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,200&display=swap');
+
+
+
+.body3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  width: 500px;
+
+}
+
+img {
+  width: 100%;
+}
+
+.carousel-inner{
+  padding: 5px;
+}
+
+.text{
+  text-align: center;
+  margin: 10px 0 0 5px;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2em;
+  
+}
+
+.btn.focus, .btn:focus, .btn:hover {
+  color:#fff;
+}
+
+.item{
+  background-color: black;
+}
+
+.tech {
+  fill: red;
+  display: block;
+  padding-bottom: 10px;
+
+}
+
+.tech1{
+  
+  width: 30px;
+  margin-left: 30px;
+
+
+}
+
+.btn { 
+  float: right;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: transparent;
+  border: 2px solid #e74c3c;
+  border-radius: 0.6em;
+  color: #e74c3c;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-self: center;
+      -ms-flex-item-align: center;
+          align-self: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  margin: 20px;
+  padding: 1.2em 2.8em;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.third {
+  border-color: #f305c7;
+  color: #fff;
+  box-shadow: 0 0 40px 40px  #9d0281 inset, 0 0 0 0 #9d0281;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+}
+
+.third:hover {
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+}
+
+
+button.close {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 40px;
+  height: 40px;
+  z-index: 111;
+  font-size: 20px;
+  background-color: #fff;
+  border-radius: 45px;
+  opacity: 1;
+}
+
+.modal-dialog{
+  margin-top: 50px;
+  margin-left: 45em;
+}

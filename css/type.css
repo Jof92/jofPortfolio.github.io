@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400");
+.text-js {
+  opacity: 0;
+  margin-block-start: -0.1em;
+  font-weight: 300;
+}
+
+
+.cursor {
+  background-color: black;
+  z-index: 1;
+  -webkit-animation: flash 0.5s none infinite alternate;
+          animation: flash 0.5s none infinite alternate;
+}
+
+@-webkit-keyframes flash {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes flash {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.body2 {
+  font-family: "Open Sans", sans-serif;
+  align-items: center;
+  margin-top: 26px;
+  margin-left: 20px;
+}
+
+.headline {
+  color: white;
+  font-size: 1.8em;
+  text-align: center;  
+}
