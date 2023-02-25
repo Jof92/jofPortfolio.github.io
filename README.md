@@ -12,13 +12,26 @@
 
 <div align="center">
 
-![portfolio image](https://github.com/Jof92/jofPortfolio.github.io/blob/main/gif.gif)
+![portfolio image](https://github.com/Jof92/jofPortfolio.github.io/blob/main/gif.gif) <br><br><br>
+ 
+## <a href="https://jof92.github.io/jofPortfolio.github.io/switch_index.html"> Acess my Portfolio's page here </a> <br><br><br>
 
-## <a href="https://jof92.github.io/jofPortfolio.github.io/switch_index.html"> Acess my Portfolio's page here </a>
+</div> 
 
-</div>
-
-#### Find me here!
+### Find me here!
 
 
 [![alttext](https://img.icons8.com/color/48/linkedin-circled--v1.png)](https://www.linkedin.com/in/jof-frota/) [![alttext](https://img.icons8.com/cute-clipart/48/instagram-new.png)](https://www.instagram.com/js.frota/) [![alttext](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/+5585996204919) [![alttext](https://img.icons8.com/color/48/apple-mail.png)](jof@frota@hotmail.com)
+
+
+
+
+_______________________________________________________________________________________________________________________________________________________________
+
+
+
+<div align="center">
+
+ <img src="https://media.tenor.com/RxH7CLG1iC8AAAAC/thats-all-folks-looney.gif" width="300px"/>
+
+</div>
