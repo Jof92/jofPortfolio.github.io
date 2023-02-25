@@ -18,5 +18,7 @@
 
 </div>
 
+#### Find me here!
 
-[![alttext](https://www.svgrepo.com/show/469190/linkedin.svg)](https://www.linkedin.com/in/jof-frota/)
+
+[![alttext](https://img.icons8.com/color/48/linkedin-circled--v1.png)](https://www.linkedin.com/in/jof-frota/) [![alttext](https://img.icons8.com/cute-clipart/48/instagram-new.png)](https://www.instagram.com/js.frota/) [![alttext](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/+5585996204919) [![alttext](https://img.icons8.com/color/48/apple-mail.png)](jof@frota@hotmail.com)
