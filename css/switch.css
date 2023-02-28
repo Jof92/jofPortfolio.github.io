@@ -3,6 +3,7 @@ body {
   background: url(../img/fortalezadia2.jpg);
   transition: 1s;
   overflow-y: hidden;
+  background-repeat: no-repeat;
 
 }
 
