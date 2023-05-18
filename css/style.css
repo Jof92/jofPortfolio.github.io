@@ -359,3 +359,10 @@
   font-family: "Jost", sans-serif;
   transition: 0.3s;
 }
+
+.jof {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  width: 5%;
+}
