@@ -33,18 +33,37 @@
 }
 
 .card[data-state="#about"] {
-  height: 500px;
+  height: 540px;
+  width: 530px;
 }
 .card[data-state="#about"] .card-main {
   padding-top: 0;
 }
 
 .card[data-state="#contact"] {
-  height: 430px;
+  height: 540px;
+  width: 530px;
 }
 
 .card[data-state="#experience"] {
-  height: 550px;
+  height: 540px;
+  width: 530px;
+  overflow-y: auto;
+}
+
+.card[data-state="#experience"]::-webkit-scrollbar {
+  width: 6px;
+  border-radius: 3px;
+}
+
+.card[data-state="#experience"]::-webkit-scrollbar-thumb {
+  background-color: #cca9c1;
+  border-radius: 3px;
+}
+
+.card[data-state="#experience"]::-webkit-scrollbar-track {
+  background-color: #edecec;
+  border-radius: 3px;
 }
 
 .card.is-active .card-header {
@@ -230,8 +249,8 @@
 }
 .card-buttons button.is-active, .card-buttons button:hover {
   color: #2b2c48;
-  border-bottom: 3px solid #8a84ff;
-  background: linear-gradient(to bottom, rgba(127, 199, 231, 0) 0%, rgba(207, 204, 255, 0.2) 44%, rgba(211, 226, 255, 0.4) 100%);
+  border-bottom: 3px solid #ff84de;
+  background: linear-gradient(to bottom, rgba(127, 199, 231, 0) 0%, rgba(253, 157, 247, 0.427) 44%, rgba(235, 60, 183, 0.4) 100%);
 }
 
 .card-section {
