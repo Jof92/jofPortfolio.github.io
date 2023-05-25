@@ -3,7 +3,9 @@ body {
   background: url(../img/fortalezadia2.jpg);
   transition: 1s;
   overflow-y: hidden;
+  background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 
 }
 
@@ -14,6 +16,9 @@ body {
 
 .body-color {
   background: url(../img/fortalezanoite2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 
 }
 
