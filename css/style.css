@@ -393,12 +393,7 @@
   }
 
   .body1 {
-    background: url(../img/for.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
     min-height: 90vh;
-
   }
 
   body {
