@@ -33,7 +33,7 @@
 }
 
 .card[data-state="#about"] {
-  height: 540px;
+  height: 550px;
   width: 530px;
 }
 .card[data-state="#about"] .card-main {
@@ -384,4 +384,42 @@
   bottom: 20px;
   right: 20px;
   width: 5%;
+}
+
+@media (max-width: 600px) {
+
+  .center {
+    display: none;
+  }
+
+  .body1 {
+    background: url(../img/for.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 90vh;
+
+  }
+
+  body {
+    background: url(../img/fort.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;  
+  }
+
+  .card {
+    margin: 10px 30px; 
+     
+  }
+
+  .text-js {
+    font-size: 90%;
+    text-align: center;
+    font-weight:500;
+    font-family: "Jost", sans-serif;
+    
+  }
+
+  
 }

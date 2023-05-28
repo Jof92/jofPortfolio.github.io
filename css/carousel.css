@@ -58,9 +58,9 @@ img {
      -moz-appearance: none;
           appearance: none;
   background-color: transparent;
-  border: 2px solid #e74c3c;
+  border: 2px solid #ffffff;
   border-radius: 0.6em;
-  color: #e74c3c;
+  color: #ffffff;
   cursor: pointer;
   display: -webkit-box;
   display: -webkit-flex;
@@ -90,7 +90,7 @@ img {
 }
 
 .third:hover {
-  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  box-shadow: 0 0 10px 0 #db34bc inset, 0 0 10px 4px #db34cd;
 }
 
 
@@ -110,4 +110,19 @@ button.close {
 .modal-dialog{
   margin-top: 50px;
   margin-left: 45em;
+}
+
+@media (max-width: 600px) {
+  .btn { 
+    margin: 0 10%;
+    width: 80%;  
+    justify-content: center;
+}
+
+.modal-dialog{
+  top: 10%;
+  margin: 0 5%;
+  padding: auto;
+}
+
 }
