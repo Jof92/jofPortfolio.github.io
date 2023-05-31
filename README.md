@@ -14,7 +14,7 @@
 
 ![portfolio image](https://github.com/Jof92/jofPortfolio.github.io/blob/main/gif.gif) <br><br><br>
  
-## <a href="https://jof92.github.io/jofPortfolio.github.io/switch_index.html"> Acess my Portfolio's page here </a> <br><br><br>
+## <a href="https://jof-portfolio.vercel.app/"> Acess my Portfolio's page here </a> <br><br><br>
 
 </div> 
 
